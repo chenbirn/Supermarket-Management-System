@@ -1,0 +1,22 @@
+/dev/Suppliers/out/
+# IntelliJ
+.idea/
+
+# Build
+out/
+target/
+bin/
+
+# Compiled
+*.class
+
+# Libraries
+*.jar
+
+# DB
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
